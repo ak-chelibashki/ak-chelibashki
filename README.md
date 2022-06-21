@@ -16,7 +16,7 @@ In future I'd love to learn more about low level programming and robotics. I am 
 our personal digital space more secure.
 
 I'll use this profile to upload projects on which I have been working on for my college and university tasks and assessments.
-I'll also upload projects on which I work during my free time.
+I'll also upload projects on which I work during my spare time.
 
 <!--
 **ak-chelibashki/ak-chelibashki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
