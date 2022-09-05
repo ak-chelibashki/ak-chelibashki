@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am 2nd year Software Development with Cyber Security student in University of Stirling. 
+I am 3rd year Software Development with Cyber Security student in University of Stirling. 
 I am currently coding Java and web based projects. Designing and building PL/SQL systems.
 I would like to work on real life solutions which could enhance productivity and quality of life.
 
