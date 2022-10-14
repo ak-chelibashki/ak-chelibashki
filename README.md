@@ -10,14 +10,13 @@ During those courses I have gained knwoledge and experience how to set up virtua
 In future I'd love to learn more about low level programming and robotics. I am interested in IoT security and how to create 
 our personal digital space more secure.
 
-I'll use this profile to upload projects on which I have been working on for my college and university tasks and assessments.
-I'll also upload projects on which I work during my spare time.
+I'll use this profile to upload projects on which I work during my spare time
 
 <!--
 **ak-chelibashki/ak-chelibashki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Trade Ledger Java application implementing front and back end development.
-- 🌱 I’m currently learning for Oracle Associate.
+- 🌱 I’m currently learning for Machine Larning and Data Scripting.
 - 👯 I’m looking to collaborate on projects involving Java and PL/SQL.
-- 📫 How to reach me: chelibashki999@proton.me
+- 📫 How to reach me: akchelibashki@yahoo.com
 -->
