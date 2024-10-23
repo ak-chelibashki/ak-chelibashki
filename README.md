@@ -1,25 +1,52 @@
-Hi there 👋
-I'm Atanas Chelibashki, a 4th-year Software Development with Cyber Security student at the University of Stirling. I specialize in building Java-based systems, working with web technologies, and handling DevOps processes to streamline software deployment. My recent experiences have deepened my skills in system administration, CI/CD automation, and integrating microservices, while also working closely with customers to refine requirements and conduct user testing.
+# 👋 Hi, I'm Atanas Chelibashki
 
-🚀 Latest Projects
-MultiAgentExchangeArena
-I'm currently working on the MultiAgentExchangeArena project, which transforms the existing ResourceExchangeArena simulation into a decentralized energy management system. The project employs the JADE (Java Agent Development Framework) to create a Multi-Agent System (MAS) for facilitating time-slot exchanges between household agents. The system explores two architectural approaches:
+I'm a **4th-year Software Development with Cyber Security** student at the **University of Stirling**. I have a passion for building software solutions that tackle **real-world challenges**, enhance **productivity**, and **improve quality of life**. I specialize in **Java-based systems**, **web technologies**, **system administration**, and **DevOps** practices.
 
-Broker-Agent Model: A central broker coordinates time-slot exchanges.
-Peer-to-Peer (P2P) Model: Agents negotiate directly with each other.
+## 🚀 What I'm Currently Working On
 
-To ensure security and transparency, blockchain technology will be integrated using the Ethereum network. The system would leverage smart contracts to automate the enforcement of exchange conditions, providing a tamper-proof record of transactions. The project aims to optimize energy distribution, improve scalability, and showcase the benefits of using MAS and blockchain for decentralized energy management.
+### MultiAgentExchangeArena
+The **MultiAgentExchangeArena** project is a transformation of the existing **ResourceExchangeArena** simulation into a **decentralized energy management system** using modern technologies. This project aims to:
+- Develop a **Multi-Agent System (MAS)** using the **JADE (Java Agent Development Framework)** to facilitate **time-slot exchanges** for energy usage between household agents in decentralized microgrids.
+- Explore two MAS architectures:
+  - **Broker-Agent Model**: A central broker coordinates time-slot exchanges.
+  - **Peer-to-Peer (P2P) Model**: Agents negotiate directly with each other.
+- Integrate **blockchain technology** (Ethereum) for **secure transaction recording**, utilizing **smart contracts** to automate exchange conditions and ensure transparency.
 
-🔧 Skills and Technologies
-Languages: Java, Python, C#, PL/SQL
-Frameworks: JADE, Spring Boot, PHP
-DevOps Tools: Jenkins, Ansible, Docker
-Blockchain: Ethereum, Solidity
-Networking & Security: Kali Linux, Wireshark, ISO 27001 principles
-System Administration: ADMS servers, microservices integration, web services maintenance
-💡 Interests
-I'm passionate about tackling real-world challenges through technology and working on projects that enhance productivity and quality of life. I’m also fascinated by IoT security, robotics, and low-level programming, which I hope to dive deeper into in the future.
+The project focuses on optimizing **energy distribution**, improving **scalability**, and showcasing the benefits of **MAS and blockchain** for decentralized energy management. Performance will be evaluated based on metrics such as **transaction efficiency**, **agent satisfaction**, and **resource usage**.
 
-📚 Experience Highlights
-General Electric Vernova Internship: Worked on ADMS servers, integrating microservices, automating tasks, and managing CI/CD pipelines to improve system efficiency.
-Ethical Hacking Projects: Performed network scanning, packet sniffing, and launched test exploits using Kali Linux. Gained hands-on experience with virtual machines and network configurations.
+## 🔧 Skills and Technologies
+
+- **Languages**: Java, Python, C#, PL/SQL
+- **Frameworks & Tools**: JADE, Spring Boot, Jenkins, Ansible, Docker, Bootstrap, PHP
+- **Blockchain**: Ethereum, Solidity
+- **Networking & Security**: Ethical Hacking, Digital Forensics, System Hardening, ISO 27001
+- **System Administration**: RH8 servers, microservices integration, web services maintenance
+
+## 🏆 Experience Highlights
+
+- **Internship at General Electric Vernova**: 
+  - Worked on **ADMS servers**, integrating **microservices** and maintaining web services.
+  - Implemented **CI/CD pipelines** using **Jenkins and Ansible**, optimizing deployment processes and automating tasks.
+  - Involved in **customer interactions**, requirements refinement, and **user testing** (local environment, FAT, SAT).
+
+- **Ethical Hacking Projects**:
+  - Conducted **network scanning, packet sniffing**, and launched exploits on test environments using **Kali Linux**.
+  - Gained practical skills in **virtual machines** and **network configurations** with **VirtualBox** and **HackTheBox**.
+
+## 💡 Interests
+
+I am eager to explore:
+- **Blockchain**, **decentralized apps (dApps)**, and **Web3 technology**
+- **Development operations (DevOps)** and **SecDevOps**
+- **Clustering** and **distributed databases**
+- **Security audit** and **compliance**
+- **Security Operations Center (SOC)**
+
+## 📈 What You'll Find Here
+
+This GitHub profile showcases the projects I work on during my spare time, including:
+- **Academic projects**
+- **Personal development projects**
+- **Automation scripts and tools**
+
+I'm always looking to **learn, experiment**, and **contribute** to new and innovative tech solutions.
