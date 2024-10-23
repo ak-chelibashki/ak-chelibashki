@@ -25,7 +25,7 @@ The project focuses on optimizing **energy distribution**, improving **scalabili
 ## 🏆 Experience Highlights
 
 - **Internship at General Electric Vernova**: 
-  - Worked on **ADMS servers**, integrating **microservices** and maintaining web services.
+  - Worked on **RH8 servers**, integrating **microservices** and maintaining web services.
   - Implemented **CI/CD pipelines** using **Jenkins and Ansible**, optimizing deployment processes and automating tasks.
   - Involved in **customer interactions**, requirements refinement, and **user testing** (local environment, FAT, SAT).
 
