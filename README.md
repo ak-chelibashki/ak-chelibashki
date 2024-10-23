@@ -1,22 +1,25 @@
-### Hi there 👋
-I am 3rd year Software Development with Cyber Security student in University of Stirling. 
-I am currently coding Java and web based projects. Designing and building PL/SQL systems.
-I would like to work on real life solutions which could enhance productivity and quality of life.
+Hi there 👋
+I'm Atanas Chelibashki, a 4th-year Software Development with Cyber Security student at the University of Stirling. I specialize in building Java-based systems, working with web technologies, and handling DevOps processes to streamline software deployment. My recent experiences have deepened my skills in system administration, CI/CD automation, and integrating microservices, while also working closely with customers to refine requirements and conduct user testing.
 
-I have been involved in several Ethical Hacking courses performing basic network scanning, packet sniffing, and launching exploits towards 
-test machines. For the purpose of those courses I have been using Kali Linux.
-I have gained knwoledge and experience how to set up virtual machines and how to establish virtual networks using VirtualBox.
+🚀 Latest Projects
+MultiAgentExchangeArena
+I'm currently working on the MultiAgentExchangeArena project, which transforms the existing ResourceExchangeArena simulation into a decentralized energy management system. The project employs the JADE (Java Agent Development Framework) to create a Multi-Agent System (MAS) for facilitating time-slot exchanges between household agents. The system explores two architectural approaches:
 
-In future I'd love to learn more about low level programming and robotics. 
-I am interested in IoT security and how to create our personal digital space more secure.
+Broker-Agent Model: A central broker coordinates time-slot exchanges.
+Peer-to-Peer (P2P) Model: Agents negotiate directly with each other.
 
-I'll use this profile to upload projects on which I work during my spare time.
+To ensure security and transparency, blockchain technology will be integrated using the Ethereum network. The system would leverage smart contracts to automate the enforcement of exchange conditions, providing a tamper-proof record of transactions. The project aims to optimize energy distribution, improve scalability, and showcase the benefits of using MAS and blockchain for decentralized energy management.
 
-<!--
-**ak-chelibashki/ak-chelibashki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills and Technologies
+Languages: Java, Python, C#, PL/SQL
+Frameworks: JADE, Spring Boot, PHP
+DevOps Tools: Jenkins, Ansible, Docker
+Blockchain: Ethereum, Solidity
+Networking & Security: Kali Linux, Wireshark, ISO 27001 principles
+System Administration: ADMS servers, microservices integration, web services maintenance
+💡 Interests
+I'm passionate about tackling real-world challenges through technology and working on projects that enhance productivity and quality of life. I’m also fascinated by IoT security, robotics, and low-level programming, which I hope to dive deeper into in the future.
 
-- 🔭 I’m currently working on Trade Ledger Java application implementing front and back end development.
-- 🌱 I’m currently learning for Machine Larning and Data Scripting.
-- 👯 I’m looking to collaborate on projects involving Java and PL/SQL.
-- 📫 How to reach me: akchelibashki@yahoo.com
--->
+📚 Experience Highlights
+General Electric Vernova Internship: Worked on ADMS servers, integrating microservices, automating tasks, and managing CI/CD pipelines to improve system efficiency.
+Ethical Hacking Projects: Performed network scanning, packet sniffing, and launched test exploits using Kali Linux. Gained hands-on experience with virtual machines and network configurations.
